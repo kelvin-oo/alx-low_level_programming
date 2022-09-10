@@ -34,7 +34,6 @@ int main(void)
 						putchar(44);
 						putchar(32);
 					}
-					}
 					m++;
 				}
 				m = 48;
@@ -46,3 +45,4 @@ int main(void)
 	}
 	putchar(10);
 	return (0);
+}
