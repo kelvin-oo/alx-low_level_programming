@@ -1,1 +1,1 @@
-c program
+task 1
